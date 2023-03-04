@@ -19,9 +19,7 @@ namespace L01_2020CC605.Controllers
             _calificacionesContext = calificacionesContext;
         }
 
-        /// <summary>
         /// Mostrando lista de todos los usuarios
-        /// </summary>
 
 
         [HttpGet]
